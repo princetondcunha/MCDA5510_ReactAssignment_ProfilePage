@@ -4,7 +4,7 @@ import myPhoto from '../../images/profile.jpg';
 const About = () => {
   return (
     <div className="about-container">
-      <h3 className="blue-text">Princeton Hilary Dcunha</h3>
+      <h3 className="blue-text">This is Production - Princeton Hilary Dcunha</h3>
       <div className="blue-line"></div>
 
       <div className="container">
